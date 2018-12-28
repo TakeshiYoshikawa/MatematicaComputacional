@@ -1,1 +1,1 @@
-Segundo trabalho vinculado a matéria "Matemática Computacional".
+Aula1: Plotagem de gráficos simples e conversão binária
