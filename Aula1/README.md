@@ -1,1 +1,0 @@
-# Aula1: Plotagem de gráficos simples e conversão binária
