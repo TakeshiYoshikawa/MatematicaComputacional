@@ -5,7 +5,7 @@
 - Aula2: Precisão de Máquina (Arredondamento, Truncamento)
 - Aula3: Precisão de Máquina (Half Precision/Single/Double)
 - Aula4: Noções sobre Erros (Erro Absoluto e Relativo)
-- Aula5: 
+- Aula5: Simulação de Erros (Incompleto)
 - Aula6: 
 - Aula7: 
 - Aula8: 
