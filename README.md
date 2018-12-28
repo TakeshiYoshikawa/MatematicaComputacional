@@ -2,7 +2,7 @@
 
 - Aula0: 
 - Aula1: Plotagem de gráficos simples e conversão binária
-- Aula2: 
+- Aula2: Precisão de Máquina
 - Aula3: 
 - Aula4: 
 - Aula5: 
