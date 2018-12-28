@@ -11,4 +11,4 @@
 - Aula8: 
 - Aula9:
 - Aula10: 
-- Aula11:  
+- Aula11: Métodos Iterativos de Jacobi e Seidel
