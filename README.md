@@ -8,7 +8,7 @@
 - Aula5: Simulação de Erros (Incompleto)
 - Aula6: Resolução de Sistemas Lineares com Numpy
 - Aula7: Implementação do Random Walk + PSO
-- Aula8: 
+- Aula8: Resolução de um Sistema Triangular Superior
 - Aula9:
 - Aula10: Fatoração LU
 - Aula11: Métodos Iterativos de Jacobi e Seidel
