@@ -6,7 +6,7 @@
 - Aula3: Precisão de Máquina (Half Precision/Single/Double)
 - Aula4: Noções sobre Erros (Erro Absoluto e Relativo)
 - Aula5: Simulação de Erros (Incompleto)
-- Aula6: 
+- Aula6: Resolução de Sistemas Lineares com Numpy
 - Aula7: 
 - Aula8: 
 - Aula9:
