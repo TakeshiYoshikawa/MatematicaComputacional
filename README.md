@@ -10,5 +10,5 @@
 - Aula7: 
 - Aula8: 
 - Aula9:
-- Aula10: 
+- Aula10: Fatoração LU
 - Aula11: Métodos Iterativos de Jacobi e Seidel
