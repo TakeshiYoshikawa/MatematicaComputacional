@@ -7,7 +7,7 @@
 - Aula4: Noções sobre Erros (Erro Absoluto e Relativo)
 - Aula5: Simulação de Erros (Incompleto)
 - Aula6: Resolução de Sistemas Lineares com Numpy
-- Aula7: 
+- Aula7: Implementação do Random Walk + PSO
 - Aula8: 
 - Aula9:
 - Aula10: Fatoração LU
