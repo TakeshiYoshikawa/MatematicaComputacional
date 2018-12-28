@@ -1,3 +1,2 @@
-# Aula11
+# Aula11: Métodos Iterativos de Jacobi e Seidel
 
-Arthur Takeshi Noronha Yoshikawa – Fatoração LU #ArthurYoshikawa #Aula11 #FeitoEmSala #2018 #Alunos #Trabalho #MathComp #Terceira Avaliação #IterativeMethod #JacobiMethod #Turma A
